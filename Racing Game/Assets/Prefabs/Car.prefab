@@ -196,7 +196,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60b2ccd41aef38b47849ad5f50b7a00e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  centerOfMass: {x: 0, y: -0.25, z: 0.25}
+  BoostForce: 100
+  CenterOfMass: {x: 0, y: -0.2, z: 0.2}
 --- !u!1001 &6653251218254035156
 PrefabInstance:
   m_ObjectHideFlags: 0
